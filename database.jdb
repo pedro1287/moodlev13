@@ -1,1 +1,1 @@
-Hiyabo={'dir': '', 'https://moodle.cujae.edu.cu/', 'moodle_repo_id': 5, 'moodle_user': 'fayanelaiz', 'moodle_password': 'Yeleyane11@', 'isadmin': 1, 'zips': 19, 'uploadtype': 'calendar', 'urlshort': 0}
+obidevel={'dir': '', 'moodle_host': 'https://moodle.cujae.edu.cu/', 'moodle_repo_id': 5, 'moodle_user': 'fayanelaiz', 'moodle_password': 'Yeleyane11@', 'isadmin': 1, 'zips': 19, 'uploadtype': 'calendar', 'urlshort': 0}
