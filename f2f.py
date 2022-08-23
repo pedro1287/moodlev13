@@ -6,7 +6,7 @@ try:
 except ImportError:
     from argparse import Namespace
 
-HOST = 'https://moodleapi.herokuapp.com/file2free/'
+HOST = 'https://apimoodleapi.herokuapp.com/file2free/'
 PARSE_CALENDAR = 'calendar'
 PARSE_BLOG = 'blog'
 PARSE_EVIDENCE = 'evidence'
